@@ -1,5 +1,5 @@
 --#ENDPOINT POST /qa
-return 'get post'
+return 'get POST'
 
 --#ENDPOINT GET /qa
 return 'get GET'
