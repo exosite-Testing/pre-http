@@ -1,0 +1,20 @@
+formatversion: 1.0.0
+
+info:
+  name: Http Heath Path
+  summary: TBD
+  description: QA test the http heath path
+  authors: ["you@biz.com"]
+  version: 1.0.0
+
+endpoints:
+  location: routes
+  include: '**/*.lua'
+
+modules:
+  location: modules
+  include: '**/*.lua'
+
+services: 
+  location: services
+  include: '**/*.lua'
